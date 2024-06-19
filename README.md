@@ -24,7 +24,7 @@ Bu proje, bir Telegram botu aracılığıyla gruba belirli zaman aralıklarıyla
 
 1. **Depoyu Klonlayın**
     ```bash
-    git clone https://github.com/kullaniciadi/telegramduyurubot.git
+    git clone https://github.com/alperenirtik/telegramduyurubot.git
     cd telegramduyurubot
     ```
 
