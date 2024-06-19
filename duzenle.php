@@ -133,7 +133,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['update'])) {
             </div>
             <input type="hidden" name="id" value="<?php echo htmlspecialchars($duyuru['id']); ?>">
             <button type="submit" name="update" class="btn btn-primary">Güncelle</button>
-            <a href="index.php" class="btn btn-secondary">İptal</a>
+            <a href="/" class="btn btn-secondary">İptal</a>
         </form>
     </div>
 
