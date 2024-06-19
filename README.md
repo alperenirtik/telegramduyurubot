@@ -46,7 +46,7 @@ Bu proje, bir Telegram botu aracılığıyla gruba belirli zaman aralıklarıyla
 
 ## Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır, herkes tarafından kullanılabilir ve geliştiilebilir. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
+Bu proje MIT lisansı ile lisanslanmıştır, herkes tarafından kullanılabilir ve geliştirilebilir. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 ## Katkıda Bulunanlar
 
