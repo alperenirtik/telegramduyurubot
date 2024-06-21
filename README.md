@@ -1,6 +1,10 @@
+<img src="https://github.com/alperenirtik/telegramduyurubot/blob/main/gorseller/1.PNG?raw=true" alt="Görsel 1">
+
 # Telegram Duyuru Botu
 
 Bu proje, bir Telegram botu aracılığıyla gruba belirli zaman aralıklarıyla otomatik duyuru mesajları göndermeye yarayan bir PHP uygulamasıdır. Uygulama, cron iş görevleriyle çalışır ve eklenen duyuruları zamanında gönderir. Ayrıca, anlık mesaj gönderme, duyuruları biçimlendirme ve düzenleme gibi özellikler sunar.
+
+<img src="https://github.com/alperenirtik/telegramduyurubot/blob/main/gorseller/2.PNG?raw=true" alt="Görsel 2">
 
 ## Özellikler
 
@@ -11,6 +15,8 @@ Bu proje, bir Telegram botu aracılığıyla gruba belirli zaman aralıklarıyla
 - **Anlık Mesaj Gönderme**: Mesajlar, Telegram botu aracılığıyla belirli bir gruba anlık olarak gönderilebilir.
 - **Admin Panel Ayarları**: BotFather ile oluşturulan bot API anahtarı ve grup ID'si admin panelinden ayarlanabilir.
 
+<img src="https://github.com/alperenirtik/telegramduyurubot/blob/main/gorseller/3.PNG?raw=true" alt="Görsel 3">
+
 ## Kurulum
 
 ### Gereksinimler
@@ -19,6 +25,9 @@ Bu proje, bir Telegram botu aracılığıyla gruba belirli zaman aralıklarıyla
 - MySQL
 - Cpanel destekli herhangi bir hosting kullanılabilir
 - Localhost üzerinde sorunsuz çalışmaktadır.
+
+
+<img src="https://github.com/alperenirtik/telegramduyurubot/blob/main/gorseller/4.PNG?raw=true" alt="Görsel 4">
 
 ### Adımlar
 
@@ -42,6 +51,9 @@ Bu proje, bir Telegram botu aracılığıyla gruba belirli zaman aralıklarıyla
 
 6. **Uygulamayı Tarayıcıda Açın**
     - Tarayıcınızda site.com/admin adresine gidin ve uygulamayı kullanmaya başlayın.
+
+
+<img src="https://github.com/alperenirtik/telegramduyurubot/blob/main/gorseller/5.PNG?raw=true" alt="Görsel 5">
 
 
 ## Lisans
